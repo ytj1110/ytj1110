@@ -1,4 +1,6 @@
-# Hi 👋, I'm Youssef Tarek
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Tarek" />
+</h1>
 
 ### Full-Stack Web Developer 💻
 
@@ -124,5 +126,5 @@ A CRUD web application for creating, reading, updating, and deleting data.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects!;Let's+build+something+awesome+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting+my+profile!" />
 </p>
