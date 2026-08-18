@@ -123,4 +123,6 @@ A CRUD web application for creating, reading, updating, and deleting data.
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects!;Let's+build+something+awesome+%F0%9F%9A%80" />
+</p>
