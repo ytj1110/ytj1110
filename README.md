@@ -1,63 +1,73 @@
-# Hi, I'm Youssef Tarek 👋
+# Hi 👋, I'm Youssef Tarek
 
-### Full-Stack Web Developer
+### Full-Stack Web Developer 💻
 
-I'm a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications.
+I'm a passionate Full-Stack Web Developer who enjoys building modern, responsive, and user-friendly web applications.
 
-I work with **PHP & Laravel** on the backend and **React & Vue.js** on the frontend, with experience in databases, OOP, and modern web development tools.
+I work with **PHP & Laravel** for backend development and **React & Vue.js** for frontend development, with a strong interest in building complete and scalable web solutions.
 
 ---
 
-## 🚀 Tech Stack
+## 💼 Business Working In
 
-### Frontend
+| Business Area             | Description                              |
+| ------------------------- | ---------------------------------------- |
+| 🌐 **Web Development**    | Modern and responsive websites           |
+| 🏢 **Corporate Websites** | Professional websites for businesses     |
+| ⚙️ **Web Applications**   | Interactive and dynamic web applications |
+| 🛒 **E-Commerce**         | Online stores and business solutions     |
+| 💼 **Business Solutions** | Custom web solutions for businesses      |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,vue" />
+---
+
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
 </p>
 
-### Backend
+### 🎨 Frontend
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,jquery" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### Database & Programming
+### 🗄️ Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### 🧩 Programming Concepts
+
 * Object-Oriented Programming (OOP)
+* REST APIs
+* Component-Based Development
+* Responsive Web Design
 
-### Tools
+### 🔧 Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ What I Can Do
-
-* Build responsive and modern websites
-* Develop full-stack web applications
-* Create REST APIs with PHP & Laravel
-* Build interactive user interfaces with React and Vue.js
-* Work with MySQL databases
-* Apply Object-Oriented Programming principles
-* Build reusable and maintainable components
-* Integrate frontend applications with backend APIs
-
----
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌍 Panto Travel
 
-A modern travel website built to showcase hotels, trips, and travel services.
+A modern travel website designed for displaying hotels, trips, and travel services.
 
-**Technologies:** React, JavaScript, CSS, Vite
+**Tech Stack:** React · JavaScript · CSS · Vite
 
 🔗 [Live Demo](https://pento-travel-jnvm.vercel.app/)
 
@@ -65,21 +75,21 @@ A modern travel website built to showcase hotels, trips, and travel services.
 
 ### 📋 CRUD Application
 
-A CRUD application for managing data with a clean and responsive interface.
+A CRUD web application for creating, reading, updating, and deleting data.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech Stack:** HTML · CSS · JavaScript
 
 🔗 [Live Demo](https://ytj1110.github.io/CRUD/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ytj1110&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytj1110&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -87,10 +97,11 @@ A CRUD application for managing data with a clean and responsive interface.
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/ytj1110">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/yousef-tarek-galal-728a3939b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -98,4 +109,4 @@ A CRUD application for managing data with a clean and responsive interface.
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Thanks for visiting my profile!
