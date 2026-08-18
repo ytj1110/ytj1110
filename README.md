@@ -63,6 +63,16 @@ I work with **PHP & Laravel** for backend development and **React & Vue.js** for
 
 ## 🚀 Featured Projects
 
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my skills, projects, and experience as a Full-Stack Web Developer.
+
+**Tech Stack:** HTML · CSS · JavaScript · Bootstrap
+
+🔗 [Live Portfolio](https://ytj1110.github.io/portfolio/)
+
+---
+
 ### 🌍 Panto Travel
 
 A modern travel website designed for displaying hotels, trips, and travel services.
