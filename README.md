@@ -43,7 +43,7 @@ I work with **PHP & Laravel** for backend development and **React & Vue.js** for
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,dotnet" />
+  <img src="https://skillicons.dev/icons?i=php,cs,dotnet" />
 </p>
 
 ### 🗄️ Database
