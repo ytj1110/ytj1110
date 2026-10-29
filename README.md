@@ -5,12 +5,12 @@
 ### Full-Stack Web Developer 💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=PHP+%26+Laravel+Developer;React+%26+Vue.js+Developer;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=C%23+%26+.NET+Developer;React+%26+Vue.js+Developer;Building+Modern+Web+Applications" />
 </p>
 
 I'm a passionate Full-Stack Web Developer who enjoys building modern, responsive, and user-friendly web applications.
 
-I work with **PHP & Laravel** for backend development and **React & Vue.js** for frontend development, with a strong interest in building complete and scalable web solutions.
+I work with **PHP & Laravel** for backend development and **React & Vue.js** for frontend development, while currently learning **C# & .NET** to expand my backend development skills.
 
 ---
 
@@ -31,7 +31,7 @@ I work with **PHP & Laravel** for backend development and **React & Vue.js** for
 ### 👨‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,cs,js,html,css" />
 </p>
 
 ### 🎨 Frontend
@@ -43,7 +43,7 @@ I work with **PHP & Laravel** for backend development and **React & Vue.js** for
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,dotnet" />
 </p>
 
 ### 🗄️ Database
